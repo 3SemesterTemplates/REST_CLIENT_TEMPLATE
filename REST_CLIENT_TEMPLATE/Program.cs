@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace REST_CLIENT_TEMPLATE
 {
+    //for eksamen
     class Program
     {
         static void Main(string[] args)
